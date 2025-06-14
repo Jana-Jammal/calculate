@@ -202,3 +202,4 @@ C:\Users\JANA\Desktop\calculater\LEC2.Tests\obj\Debug\net9.0\refint\LEC2.Tests.d
 C:\Users\JANA\Desktop\calculater\LEC2.Tests\obj\Debug\net9.0\LEC2.Tests.pdb
 C:\Users\JANA\Desktop\calculater\LEC2.Tests\obj\Debug\net9.0\LEC2.Tests.genruntimeconfig.cache
 C:\Users\JANA\Desktop\calculater\LEC2.Tests\obj\Debug\net9.0\ref\LEC2.Tests.dll
+C:\Users\JANA\Desktop\calculater\LEC2.Tests\obj\Debug\net9.0\LEC2.Tests.sourcelink.json

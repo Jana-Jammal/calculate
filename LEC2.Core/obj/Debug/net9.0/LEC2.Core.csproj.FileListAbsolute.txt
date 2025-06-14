@@ -20,3 +20,4 @@ C:\Users\JANA\Desktop\calculater\LEC2.Core\obj\Debug\net9.0\LEC2.Core.dll
 C:\Users\JANA\Desktop\calculater\LEC2.Core\obj\Debug\net9.0\refint\LEC2.Core.dll
 C:\Users\JANA\Desktop\calculater\LEC2.Core\obj\Debug\net9.0\LEC2.Core.pdb
 C:\Users\JANA\Desktop\calculater\LEC2.Core\obj\Debug\net9.0\ref\LEC2.Core.dll
+C:\Users\JANA\Desktop\calculater\LEC2.Core\obj\Debug\net9.0\LEC2.Core.sourcelink.json
